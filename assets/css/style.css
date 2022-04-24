@@ -6,14 +6,7 @@ img{
     max-width: 100%;
 }
 
-.attribution{
-    font-size: 11px;
-    text-align: center;
-}
 
-.attribution a{
-color:hsl(228, 45% 44%);
-}
 
 .flex-row{
     display:flex;
@@ -24,4 +17,8 @@ color:hsl(228, 45% 44%);
     display: flex;
     flex-flow: column nowrap;
 
+}
+
+.hidden{
+    display: none;
 }
